@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="172" viewBox="0 0 920 172">
+  <title>Молитва деплою</title>
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#312941" stroke-width="1"/>
+    </pattern>
+    <clipPath id="bounds"><rect width="920" height="172" rx="12"/></clipPath>
+  </defs>
+  <g clip-path="url(#bounds)">
+    <rect width="920" height="172" fill="#16131f"/>
+    <rect width="920" height="172" fill="url(#grid)" opacity=".62"/>
+    <rect x="17.5" y="17.5" width="885" height="137" rx="5" fill="none" stroke="#433657"/>
+    <path fill="#8b5cf6" d="M17 17h9v9h-9zm877 129h9v9h-9z"/>
+    <text x="45" y="87" fill="#f4efff" font-family="system-ui, Segoe UI, Arial, sans-serif" font-weight="750" font-size="47">Молитва деплою</text>
+    <text x="47" y="122" fill="#c4b5fd" font-family="ui-monospace, Consolas, monospace" font-size="17">dubstepmolitva.ru</text>
+    <g fill="none" stroke="#8b5cf6" stroke-width="1.5">
+      <path d="M530 104h70l30-30h71l34-31h115"/>
+      <path d="M630 74v42h113l29-24h77" stroke="#625078"/>
+      <path d="M701 74v24" stroke="#625078"/>
+    </g>
+    <g fill="#16131f" stroke="#a78bfa" stroke-width="1.5">
+      <circle cx="530" cy="104" r="4"/>
+      <circle cx="630" cy="74" r="5"/>
+      <circle cx="701" cy="74" r="4"/>
+      <circle cx="743" cy="116" r="4"/>
+      <circle cx="850" cy="43" r="5" fill="#8b5cf6"/>
+    </g>
+  </g>
+</svg>
