@@ -1,37 +1,29 @@
-# Богдан Щербинин
+# Богдан · ketasonx
 
-[![Молитва деплою — портфолио Богдана Щербинина](./assets/profile-banner.svg)](https://dubstepmolitva.ru/)
+[![Молитва деплою — портфолио](./assets/profile-banner.svg)](https://dubstepmolitva.ru/)
 
-Делаю сайты с онлайн-записью, Telegram-ботов и CRM для бизнеса. Пишу бэкенд на Python и FastAPI, подключаю внешние сервисы и разворачиваю проекты.
+Разрабатываю бэкенд на **Python и FastAPI**, Telegram-ботов и Mini Apps. Собираю сервисы онлайн-записи и CRM: от заявки на сайте до уведомления менеджеру, фоновых задач и панели управления.
 
-[Портфолио](https://dubstepmolitva.ru/) · [Написать в Telegram](https://t.me/ketasonx) · [Канал «Молитва деплою»](https://t.me/molitva_deploy)
+[Портфолио](https://dubstepmolitva.ru/) · [Написать в Telegram](https://t.me/ketasonx) · [Молитва деплою](https://t.me/molitva_deploy) · [LinkedIn](https://www.linkedin.com/in/ketasonx/)
 
-## Избранные проекты
+## Онлайн-запись, боты и CRM
 
-### Онлайн-запись, боты и CRM
+- **[Смена](https://dubstepmolitva.ru/work/smena/)** — Telegram Mini App для барбера. Расписание, клиенты и свободные окна из YCLIENTS. [Демо](https://dubstepmolitva.ru/work/smena/#demo) · [Код](https://github.com/blessed-bless/smena)
+- **[AI Funnel Ecosystem](https://dubstepmolitva.ru/work/ai-funnel-ecosystem/)** — бот уточняет детали заявки в Telegram и передаёт её менеджеру в mini-CRM. [Демо](https://dubstepmolitva.ru/work/ai-funnel-ecosystem/#demo) · [Код](https://github.com/blessed-bless/ai-funnel-ecosystem)
+- **[Приёмная](https://dubstepmolitva.ru/work/priemnaya/)** — онлайн-запись в шиномонтаж после пропущенного звонка. Клиент получает SMS со ссылкой, мастер видит запись в общем календаре. Проект в разработке.
+- **[Грань](https://dubstepmolitva.ru/work/gran/)** — сайт барбершопа с переходом к записи в Telegram Mini App «Смена».
 
-**[Приёмная](https://dubstepmolitva.ru/work/priemnaya/)** · *В разработке*  
-Запись в шиномонтаж после пропущенного звонка. Клиент получает SMS со ссылкой, а мастер видит запись в общем календаре.
+## Инструменты для разработчиков
 
-**[Смена](https://dubstepmolitva.ru/work/smena/)** · *Готово* · [Код «Смены»](https://github.com/blessed-bless/smena)  
-Telegram Mini App для барбера с расписанием, клиентами и свободными окнами из YCLIENTS.
-
-**[AI Funnel Ecosystem](https://dubstepmolitva.ru/work/ai-funnel-ecosystem/)** · *Готово* · [Код AI Funnel Ecosystem](https://github.com/blessed-bless/ai-funnel-ecosystem)  
-Ведёт диалог с клиентом в Telegram после заявки на сайте и передаёт лид менеджеру через mini-CRM.
-
-### Инструменты для разработчиков
-
-**[FleetKit](https://dubstepmolitva.ru/work/fleetkit/)** · *Готово* · [Код FleetKit](https://github.com/blessed-bless/fleetkit)  
-Один API и дашборд для управления ботами, воркерами, cron-задачами и вебхуками.
-
-**[crawlnet](https://dubstepmolitva.ru/work/crawlnet/)** · *Готово* · [Код crawlnet](https://github.com/blessed-bless/crawlnet)  
-Распределённый обход страниц с очередью Redis, YAML-спайдерами и выгрузкой в CSV и Excel.
-
-**[ShipCrew](https://dubstepmolitva.ru/work/shipcrew/)** · *Готово* · [Код ShipCrew](https://github.com/blessed-bless/shipcrew)  
-Команда ИИ-агентов проводит задачу от постановки до сборки релизного ZIP-архива.
+- **[FleetKit](https://dubstepmolitva.ru/work/fleetkit/)** — API и веб-панель для ботов, воркеров, cron-задач и вебхуков. [Код](https://github.com/blessed-bless/fleetkit)
+- **[crawlnet](https://dubstepmolitva.ru/work/crawlnet/)** — асинхронный обход страниц с очередью Redis, YAML-конфигурацией и экспортом в CSV и Excel. [Код](https://github.com/blessed-bless/crawlnet)
+- **[Pingo](https://dubstepmolitva.ru/work/pingo/)** — мониторинг доступности сайтов с уведомлениями в Telegram.
+- **[ShipCrew](https://dubstepmolitva.ru/work/shipcrew/)** — рабочий процесс для ИИ-агентов от постановки задачи до сборки релизного архива. [Код](https://github.com/blessed-bless/shipcrew)
 
 ## Стек
 
-`Python` `FastAPI` `asyncio` `PostgreSQL` `Redis` `TypeScript` `React` `Astro` `Docker`
+**Бэкенд и данные** · Python, FastAPI, asyncio, SQLAlchemy, PostgreSQL, Redis, SQLite  
+**Интерфейсы и боты** · Telegram Bot API, aiogram, TypeScript, React, Astro, Node.js  
+**Запуск** · Docker, Linux
 
-[Оценить проект в Telegram-боте →](https://t.me/molitva_deploy_bot?start=quiz)
+[Все проекты](https://dubstepmolitva.ru/work/) · [Обсудить задачу](https://t.me/ketasonx)
